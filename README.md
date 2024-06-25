@@ -1,2 +1,2 @@
 # ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH
-Développer un robot autonome capable de suivre une ligne noire sur un fond blanc. Intégrer un système de détection d'obstacles pour éviter les collisions. Contrôler le robot à distance via une connexion Bluetooth. Utiliser des composants électroniques courants et open-source pour permettre la reproductibilité et l'accessibilité du projet. 
+Notre projet consiste en conception et réalisation d’un robot capable de suivre une ligne tracée sur le sol et de détecter et éviter les obstacles se trouvant sur son chemin. Ce type de robot est largement utilisé dans des applications industrielles et éducatives, et sert de base pour des technologies plus avancées en robotique. 
