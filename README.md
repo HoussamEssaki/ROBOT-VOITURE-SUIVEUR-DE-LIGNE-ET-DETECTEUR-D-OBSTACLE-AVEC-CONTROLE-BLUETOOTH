@@ -1,5 +1,11 @@
 # Line-Following and Obstacle-Detection Robot
 
+<div align="center">
+
+<img src="assets/project-cover.svg" alt="ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH — custom NEXUS project cover" width="100%" />
+
+</div>
+
 An educational robotics project focused on a mobile robot designed to follow a line, detect obstacles and support Bluetooth-based control.
 
 ## Project overview
