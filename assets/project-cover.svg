@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="t d">
+<title id="t">AUTONOMOUS MOTION — Project Cover</title><desc id="d">LINE FOLLOWING / OBSTACLE DETECTION / BLUETOOTH</desc>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#26313A" stroke-width="1"/></pattern><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101820"/><stop offset="1" stop-color="#18242D"/></linearGradient></defs>
+<rect width="1600" height="480" fill="url(#bg)"/><rect width="1600" height="480" fill="url(#g)" opacity=".7"/>
+<path d="M0 420H1600" stroke="#FFB454" stroke-opacity=".55"/><rect x="64" y="54" width="8" height="372" fill="#FFB454"/>
+<text x="105" y="92" fill="#66E0D0" font-family="monospace" font-size="17" letter-spacing="5">NEXUS / PROJECT SERIES</text>
+<text x="105" y="218" fill="#F4F7F8" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" letter-spacing="1">AUTONOMOUS MOTION</text>
+<text x="108" y="270" fill="#AFC0C9" font-family="monospace" font-size="17" letter-spacing="1.4">LINE FOLLOWING / OBSTACLE DETECTION / BLUETOOTH</text>
+<rect x="105" y="325" width="180" height="42" rx="4" fill="#FFB454"/><text x="125" y="352" fill="#101820" font-family="monospace" font-size="17" font-weight="700">ROBOT-003</text>
+<g fill="none" stroke="#FFB454" stroke-width="3"><rect x="1160" y="145" width="210" height="145" rx="28"/><circle cx="1215" cy="210" r="15" fill="#66E0D0"/><circle cx="1315" cy="210" r="15" fill="#66E0D0"/><path d="M1265 145V105M1240 105H1290M1195 290L1165 340M1335 290L1365 340M1110 340H1450" /><path d="M1085 250H1140M1390 250H1450" stroke-dasharray="7 10"/></g>
+<text x="1500" y="440" text-anchor="end" fill="#73838C" font-family="monospace" font-size="13" letter-spacing="3">SYSTEMS / BUILD / LEARN</text>
+</svg>
